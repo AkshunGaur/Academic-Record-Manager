@@ -1,4 +1,4 @@
-# Academic Record Helper
+# Academic Record Manager
 
 This is a small terminal program I made for my VITyarthi project
 assignment. It helps a faculty member add, view, search, update and
